@@ -1,0 +1,45 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ah17/ros/noetic/system/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ah17/ros/noetic/system/src/base_local_planner/include/**",
+        "/home/ah17/ros/noetic/system/src/cb_base_navigation/include/**",
+        "/home/ah17/ros/noetic/system/src/code_profiler/include/**",
+        "/home/ah17/ros/noetic/system/src/costmap_2d/include/**",
+        "/home/ah17/ros/noetic/system/src/dwa_local_planner/include/**",
+        "/home/ah17/ros/noetic/system/src/ed/include/**",
+        "/home/ah17/ros/noetic/system/src/ed_navigation/include/**",
+        "/home/ah17/ros/noetic/system/src/ed_people_recognition/include/**",
+        "/home/ah17/ros/noetic/system/src/ed_sensor_integration/include/**",
+        "/home/ah17/ros/noetic/system/src/geolib2/include/**",
+        "/home/ah17/ros/noetic/system/src/handle_locator/include/**",
+        "/home/ah17/ros/noetic/system/src/head_ref/include/**",
+        "/home/ah17/ros/noetic/system/src/kdl_parser/include/**",
+        "/home/ah17/catkin_WS2/src/learning_tf2/include/**",
+        "/home/ah17/ros/noetic/system/src/nav_core/include/**",
+        "/home/ah17/catkin_WS2/src/opening_door/include/**",
+        "/home/ah17/ros/noetic/system/src/rgbd/include/**",
+        "/home/ah17/catkin_WS2/src/smb_common_v2/smb_gazebo/include/**",
+        "/home/ah17/catkin_WS2/src/smb_highlevel_controller/include/**",
+        "/opt/ros/noetic/share/tmc_julius/include/**",
+        "/home/ah17/ros/noetic/system/src/tue_config/include/**",
+        "/home/ah17/ros/noetic/system/src/tue_filesystem/include/**",
+        "/home/ah17/ros/noetic/system/src/tue_serialization/include/**",
+        "/home/ah17/ros/noetic/system/src/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
